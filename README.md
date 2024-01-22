@@ -1,21 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tshegofatso Seane</h1>
 <h3 align="center">A passionate web developer from South Africa</h3>
 
-
-- 🔭 I’m currently working on [pillow.com](https://github.com/tshegofatsoseane/pillow.com)
-
-- 🌱 I’m currently learning **REACT.JS**
-
-- 👯 I’m looking to collaborate on **Python/Django project**
-
-- 👨‍💻 All of my projects are available at [https://github.com/tshegofatsoseane](https://github.com/tshegofatsoseane)
-
-- 📝 I regularly write articles on [https://medium.com/@tshegofatsoseane98](https://medium.com/@tshegofatsoseane98)
-
-- 💬 Ask me about **Django**
-
-- 📫 How to reach me **tshegofatsoseane98@gmail.com**
-
 - 📄 Know about my experiences [https://tshegofatsoseane.github.io/PortfolioWebsite/](https://tshegofatsoseane.github.io/PortfolioWebsite/)
 
 ### Blogs posts
