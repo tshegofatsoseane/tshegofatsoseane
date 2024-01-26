@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tshegofatso Seane</h1>
-<h3 align="center">A passionate web developer from South Africa</h3>
+<h1 align="center">Hello World! 👋 </h1>
 
 - 📄 Know about my experiences [https://tshegofatsoseane.github.io/PortfolioWebsite/](https://tshegofatsoseane.github.io/PortfolioWebsite/)
 
